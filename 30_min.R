@@ -1,4 +1,7 @@
-setwd("~/Desktop/Dropbox/School/Rowing Data")
+# Charlie Hanley. Fall 2014. To analyze heart rates and split times from a 
+# 30-minute rowing machine test.
+
+setwd("~/Dropbox/School/Rowing Data")
 
 library(ggplot2)
 library(scales)

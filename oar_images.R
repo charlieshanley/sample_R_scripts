@@ -1,7 +1,7 @@
 # Charles Hanley
 # October 2014
-# Part of network / ranking project
-# Thanks to Clay Ford for web scraping demo in UVa R Users Group
+# To download oar blade images for each US university team by scraping URLs.
+# Thanks to Clay Ford for web scraping demo
 
 library(RCurl)
 library(png)
